@@ -3,5 +3,5 @@ Notes I made in class to have a history of what I've been studying for portfolio
 
 ## Sumary
 
-- <a href="https://github.com/akemi-adam/class-notes/tree/main/apoo">APOO</a>
+- APOO
   - <a href="https://github.com/akemi-adam/class-notes/blob/main/apoo/Sistemas.md">Sistemas</a>
